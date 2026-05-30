@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pandas
 numpy
 sqlalchemy
 matplotlib
+=======
+pandas
+numpy
+sqlalchemy
+matplotlib
+>>>>>>> 592b39038efec8032594da4a1d2591afcf595131
 streamlit
