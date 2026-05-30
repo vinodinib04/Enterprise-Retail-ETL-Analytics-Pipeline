@@ -184,21 +184,4 @@ streamlit run dashboard/app.py
 - Real-Time Data Processing
 - Advanced Business Intelligence Reporting
 
----
 
-## Resume Highlights
-
-- Developed an enterprise-style Retail ETL Analytics Pipeline using Python, SQL, SQLite, and Streamlit.
-- Implemented incremental data loading with duplicate detection and automated logging.
-- Built interactive KPI dashboards and business analytics reports.
-- Designed modular ETL workflows for scalable retail data processing.
-
----
-
-## Author
-
-Vinodini B
-
-Computer Science Engineering (AI & ML)
-
-Passionate about Data Engineering, Artificial Intelligence, and Analytics.
