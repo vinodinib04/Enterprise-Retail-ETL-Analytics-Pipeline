@@ -1,0 +1,9 @@
+import os
+
+print("Starting ETL Pipeline...\n")
+
+os.system("python scripts/extract.py")
+os.system("python scripts/transform.py")
+os.system("python scripts/load.py")
+
+print("\nComplete ETL Pipeline Executed Successfully")
